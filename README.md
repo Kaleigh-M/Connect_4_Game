@@ -40,6 +40,9 @@ To play this game, you'll need to have Python and Pygame installed on your syste
     python connect4.py
 
 
+![connect-four-game](https://github.com/user-attachments/assets/b54f94f1-6eec-4410-a7d1-6dc651770dc3)
+
+
 # Planned Updates
 
   Single-Player Mode: Add an AI opponent for solo play.
