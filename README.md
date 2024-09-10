@@ -1,4 +1,4 @@
-## Connect_4_Game
+### Connect_4_Game
 This is a simple Connect 4 game built using Python and Pygame. The game is designed for two players who take turns dropping colored discs into a grid. 
 The first player to align four of their discs vertically, horizontally, or diagonally wins the game.
 
